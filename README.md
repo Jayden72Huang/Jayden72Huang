@@ -9,10 +9,16 @@
 
 ### Selected projects
 
-- **[HackerTrip](https://hackertrip.space)** — 发现黑客松，了解赛道、截止时间和报名入口，把下一场比赛变成下一件作品。
-- **[Cotify](https://github.com/Jayden72Huang/cotify)** — 让 Claude Code 开口说话，用 macOS 原生语音播报任务完成、错误和进度。
-- **[DAMC](https://github.com/Jayden72Huang/damc-skill)** — 扫描 AI 使用环境，从四个维度梳理个人能力，生成可视化报告。
-- **[HackerTrip CLI + Skills](https://github.com/Jayden72Huang/hackertrip-cli)** — 在终端里扫描项目、匹配黑客松，整理作品并提交活动草稿。
+<table>
+<tr>
+<td width="50%"><a href="https://hackertrip.space"><img src="https://raw.githubusercontent.com/Jayden72Huang/Jayden72Huang/main/assets/hackertrip.svg" width="480" alt="HackerTrip — 点击查看项目" /></a></td>
+<td width="50%"><a href="https://github.com/Jayden72Huang/cotify"><img src="https://raw.githubusercontent.com/Jayden72Huang/Jayden72Huang/main/assets/cotify.svg" width="480" alt="Cotify — 点击查看项目" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Jayden72Huang/damc-skill"><img src="https://raw.githubusercontent.com/Jayden72Huang/Jayden72Huang/main/assets/damc.svg" width="480" alt="DAMC — 点击查看项目" /></a></td>
+<td width="50%"><a href="https://github.com/Jayden72Huang/hackertrip-cli"><img src="https://raw.githubusercontent.com/Jayden72Huang/Jayden72Huang/main/assets/hackertrip-cli.svg" width="480" alt="HackerTrip CLI — 点击查看项目" /></a></td>
+</tr>
+</table>
 
 **[浏览完整 Project List →](https://github.com/Jayden72Huang/Jayden72Huang/blob/main/PROJECTS.md)**
 
